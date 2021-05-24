@@ -22,12 +22,12 @@
 
 - ❤️ Love my blogs? Do read my books!
 
-  <a href="https://www.amazon.in/USEFUL-ARTICLES-THOUGHTS-provides-advice-ebook/dp/B08HS9P4GD"</a>
+  <a href="https://www.amazon.in/USEFUL-ARTICLES-THOUGHTS-provides-advice-ebook/dp/B08HS9P4GD">USEFUL ARTICLES AND THOUGHTS</a>
   <p align="center">
 <img src="https://user-images.githubusercontent.com/79377502/119359555-62fa0b80-bcc7-11eb-943a-5d9ba0cc36d3.png"/>
 </p>                                                                                            
                                                                                               
-<a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=sr_1_14?dchild=1&keywords=motivational+leaders&qid=1616909662&sr=8-14"</a>
+<a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=sr_1_14?dchild=1&keywords=motivational+leaders&qid=1616909662&sr=8-14">MOTIVATIONAL LEADERS</a>
 
 <p align="center">
 <img src="https://miro.medium.com/max/271/1*c3EXkEuAwhwBmS_yYoGOKw.jpeg"/>
