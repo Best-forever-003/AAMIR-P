@@ -2,7 +2,7 @@
 <h3 align="center">Engineer🧑  •  Programmer💻  •  Self - Learner📚  • Writer😃 • Blogger😃</h3>
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/79377502/119357005-b28b0800-bcc4-11eb-88a3-bee71d38de06.png);
+<img src="![image](https://user-images.githubusercontent.com/79377502/119357005-b28b0800-bcc4-11eb-88a3-bee71d38de06.png);"
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Best-forever-003" alt="AAMIR-P" /> </p>
@@ -30,6 +30,6 @@
 <a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=pd_sim_1/262-1428887-2729058?pd_rd_w=AraaD&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=DE77MRB4GSAHAA725SHD&pd_rd_r=caa622e9-8b63-415b-a781-91631859d582&pd_rd_wg=v1XyY&pd_rd_i=B08XLHBTFK&psc=1"</a>
 
 <p align="center">
-<img src="![image](https://user-images.githubusercontent.com/79377502/119359832-a785a700-bcc7-11eb-8295-50fa86d146d9.png)
+<img src="![image](https://user-images.githubusercontent.com/79377502/119359832-a785a700-bcc7-11eb-8295-50fa86d146d9.png)"
 </p>
                                                                                               
