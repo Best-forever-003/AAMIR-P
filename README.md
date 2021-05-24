@@ -16,7 +16,7 @@
                                                                                               
 -📕 Consistent learner
                                                                                               
-- 📫 How to reach me? Check out my profile :<a href="https://www.linkedin.com/in/aamir-p-a801601aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Xg3XpmBQ26vpcIZCAgFqg%3D%3D"</a>
+- 📫 How to reach me? Check out my profile :<a href="https://www.linkedin.com/in/aamir-p-a801601aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Xg3XpmBQ26vpcIZCAgFqg%3D%3D">LinkedIn</a>
 
 -📝 Check out my blogs in Medium
 
