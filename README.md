@@ -10,7 +10,7 @@
 # Who am I?
 - 🤵🏽‍ I am a pre-final year student pursuing my Bachelor's degree in the stream of Electronics and Communication Engineering.
                                                                                               
--🏿‍💻 My love for Engineering is for Projects!
+-🏿‍💻 My love towards Engineering is for Projects!
                                                                                               
 -🖋 Writing is my hobby
                                                                                               
@@ -20,7 +20,7 @@
 
 -📝 Check out my blogs in Medium
 
-- ❤️ Love my blogs? Do read my books 
+- ❤️ Love my blogs? Do read my books!
 
   <a href="https://www.amazon.in/USEFUL-ARTICLES-THOUGHTS-provides-advice-ebook/dp/B08HS9P4GD"</a>
   <p align="center">
