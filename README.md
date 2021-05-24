@@ -2,13 +2,9 @@
 <h3 align="center">Techie🧑‍💻  •  Coder💻  •  Learner📚  • Contributor😃</h3>
 
 <p align="center">
-<img src="https://miro.medium.com/fit/c/850/850/1*BLbXd9fY2Zk0M1vE38LLmA.jpeg;
+<img src="![image](https://user-images.githubusercontent.com/79377502/119357005-b28b0800-bcc4-11eb-88a3-bee71d38de06.png);
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankm" alt="kumarankm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Best-forever-003" alt="AAMIR-P" /> </p>
 
 
-# AAMIR-P
-Electronics and Communication Engineer
-
-# Engineer| Programmer | Writer | Self Learner | Data Science | Blogger
