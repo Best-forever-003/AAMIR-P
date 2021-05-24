@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/79377502/119359555-62fa0b80-bcc7-11eb-943a-5d9ba0cc36d3.png"/>
 </p>                                                                                            
                                                                                               
-<a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=pd_sim_1/262-1428887-2729058?pd_rd_w=AraaD&pf_rd_p=875eb91f-f332-4a18-907e-b9a7d369d449&pf_rd_r=DE77MRB4GSAHAA725SHD&pd_rd_r=caa622e9-8b63-415b-a781-91631859d582&pd_rd_wg=v1XyY&pd_rd_i=B08XLHBTFK&psc=1"</a>
+<a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=sr_1_14?dchild=1&keywords=motivational+leaders&qid=1616909662&sr=8-14"</a>
 
 <p align="center">
 <img src="https://miro.medium.com/max/271/1*c3EXkEuAwhwBmS_yYoGOKw.jpeg"/>
