@@ -44,4 +44,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Best-forever-003&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Status" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p><hr>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<img src="https://github-profile-trophy.vercel.app/?username=annshiv&theme=gruvbox"/>
+</a>
+</p>
                                                                                               
