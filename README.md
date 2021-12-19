@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, This is Aamir P</h1>
-<h3 align="center">Engineer🧑  •  Programmer💻  •  Self - Learner📚  • Writer✒️ • Blogger📝</h3>
+<h3 align="center">Engineer🧑  •  Programmer💻  •  Self - Learner📚  • Writer✒️ • Blogger📝 •Podcaster🦻</h3>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79377502/119357005-b28b0800-bcc4-11eb-88a3-bee71d38de06.png"/>
