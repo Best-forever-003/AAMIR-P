@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Best-forever-003" alt="AAMIR-P" /> </p>
 
 # Who am I?
-- 🤵🏽‍ I am a pre-final year student pursuing my Bachelor's degree in the stream of Electronics and Communication Engineering.
+- 🤵🏽‍ I am a final year student pursuing my Bachelor's degree in the stream of Electronics and Communication Engineering.
                                                                                               
 -🏿‍💻 My love towards Engineering is for Projects!
                                                                                               
