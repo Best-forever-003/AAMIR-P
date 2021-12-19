@@ -18,7 +18,7 @@
                                                                                               
 - 📫 How to reach me? Check out my profile :<a href="https://www.linkedin.com/in/aamir-p/">LinkedIn</a>
 
--📝 Check out my blogs in Medium <a href = "https://aamir1610-67719.medium.com/"> Medium </a>
+-📝 Check out my blogs in <a href = "https://aamir1610-67719.medium.com/"> Medium </a>
 
 - ❤️ Love my blogs? Do read my books!<a href="https://www.amazon.in/s?i=digital-text&rh=p_27%3AAamir+P&s=relevancerank&text=Aamir+P&ref=dp_byline_sr_ebooks_1"> My books </a>
 <p align="center">
@@ -30,6 +30,9 @@
 <p align="center">                                                                                              
 <a href="https://www.amazon.in/MOTIVATIONAL-LEADERS-book-filled-motivation-ebook/dp/B08XLHBTFK/ref=sr_1_14?dchild=1&keywords=motivational+leaders&qid=1616909662&sr=8-14"><u><b>MOTIVATIONAL LEADERS</b></u></a>
 </p>  
+
+- 🦻 Listen to my podcasts available at <a href= "https://open.spotify.com/show/1i1RqBuArA4xW68VhsgZCl"> Spotify</a>
+
 
 <p align="center">
 <img src="https://miro.medium.com/max/271/1*c3EXkEuAwhwBmS_yYoGOKw.jpeg"/>
