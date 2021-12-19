@@ -18,7 +18,7 @@
                                                                                               
 - 📫 How to reach me? Check out my profile :<a href="https://www.linkedin.com/in/aamir-p-a801601aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Xg3XpmBQ26vpcIZCAgFqg%3D%3D">LinkedIn</a>
 
--📝 Check out my blogs in Medium <a href = " https://aamir1610-67719.medium.com/"> Medium </a>
+-📝 Check out my blogs in Medium <a href = "https://aamir1610-67719.medium.com/"> Medium </a>
 
 - ❤️ Love my blogs? Do read my books!<a href="https://www.amazon.in/s?i=digital-text&rh=p_27%3AAamir+P&s=relevancerank&text=Aamir+P&ref=dp_byline_sr_ebooks_1"> My books </a>
 <p align="center">
