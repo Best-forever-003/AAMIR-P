@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Best-forever-003" alt="AAMIR-P" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Best-forever-003&show_icons=true&locale=en&layout=compact" alt="Best-forever-003" /></p>
 
 
 # Who am I?
@@ -58,6 +57,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Best-forever-003&theme=gruvbox"/>
 </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Best-forever-003&show_icons=true&locale=en&layout=compact" alt="Best-forever-003" /></p>
+
 
 <p align="center">
 <a href="https://best-forever-003.github.io/Aamir-P.github.io/"><u><b>Want to know more? Click here!</b></u></a>
