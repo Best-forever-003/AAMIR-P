@@ -7,6 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Best-forever-003" alt="AAMIR-P" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Best-forever-003&show_icons=true&locale=en&layout=compact" alt="Best-forever-003" /></p>
+
+
 # Who am I?
 - 🤵🏽‍ I am a final year student pursuing my Bachelor's degree in the stream of Electronics and Communication Engineering.
                                                                                               
@@ -37,6 +40,8 @@
 </p>
 
 - 🦻 Listen to my podcasts available at <a href= "https://open.spotify.com/show/1i1RqBuArA4xW68VhsgZCl"> Spotify</a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Best-forever-003&" alt="Best-forever-003" /></p>
 
 
 <h2 align="center">Let's connect😉!</h2>
